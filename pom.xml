@@ -40,7 +40,7 @@
             **/model/**
         </coverage.exclusions>
         <project.coverage.exclusions>placeholder</project.coverage.exclusions>
-        <lombok.version>1.18.34</lombok.version>
+        <lombok.version>1.18.36</lombok.version>
     </properties>
     <dependencies>
         <dependency>
